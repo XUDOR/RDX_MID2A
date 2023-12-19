@@ -1,0 +1,26 @@
+{
+  "name": "RDX_MID2A",
+  "version": "1.0.0",
+  "description": "Midterm assignment : Option #7 | Resource Wall | La#ice __Variant_EJS-Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XUDOR/RDX_MID2A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XUDOR/RDX_MID2A/issues"
+  },
+  "homepage": "https://github.com/XUDOR/RDX_MID2A#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "pg": "^8.11.3"
+  }
+}
