@@ -12,6 +12,12 @@ app.listen(port,() => {
 
 const pool = require('./db');
 
+//start
+
+app.get('/', (req, res) => {
+  res.send('Welcome to the RDX_MID2A Server!');
+});
+
 //create (POST)
 app.post('/users', async (req, res) =>{
   //create new user
